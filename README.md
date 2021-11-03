@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eryk Almeida
-- 👀 I’m interested in  ser um Desenvolvedor de Software
+- 👀 I'm interested in being a software developer
 
 <!---
 ErykAO/ErykAO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
